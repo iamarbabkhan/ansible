@@ -25,9 +25,9 @@ From master node
 * `ssh ipofnode`
 * `exit`
 * `sudo vi /etc/ansible/hosts`
-[groupname]
-1. nodename ansible_ssh_host=ipofnode
+1. [groupname]
 2. nodename ansible_ssh_host=ipofnode
+3. nodename ansible_ssh_host=ipofnode
 
 #### Step6
 * `ansible -m ping all`
