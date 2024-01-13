@@ -13,7 +13,7 @@ From worker node
 * `sudo apt install python3`
 
 #### Step3
-From worker node
+From master node
 * `cat ~/.ssh/id_rsa.pub`
 
 #### Step4
