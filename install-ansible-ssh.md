@@ -5,7 +5,7 @@ From master node
 * `sudo apt update`
 * `sudo apt install software-properties-common`
 * `sudo apt-add-repository --yes --update ppa:ansible/ansible`
-* `sudo apt install ansible
+* `sudo apt install ansible`
 
 #### Step2
 From worker node
@@ -26,8 +26,8 @@ From master node
 * `exit`
 * `sudo vi /etc/ansible/hosts`
 [groupname]
-nodename ansible_ssh_host=ipofnode
-nodename ansible_ssh_host=ipofnode
+-nodename ansible_ssh_host=ipofnode
+-nodename ansible_ssh_host=ipofnode
 
 #### Step6
 * `ansible -m ping all`
