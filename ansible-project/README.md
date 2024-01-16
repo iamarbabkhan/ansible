@@ -1,5 +1,5 @@
 ## Establishing a passwordless SSH connection between AWS EC2 instances using Ansible
-#### I have created 3 Ec2 instances with the same key pair.
+#### I have created 3 Ec2 instances with the same key pair
 ![Screenshot-2024-01-16-222734.png](https://i.postimg.cc/HnyXg698/Screenshot-2024-01-16-222734.png)
 #### Now login to the ansible master by mobaxterm using ssh
 * `ssh -i "ansiblepem.pem" Public IPv4 DNS`
@@ -47,3 +47,5 @@
 #### Finally html page is live on web server
 ![Screenshot-2024-01-16-040134.png](https://i.postimg.cc/76pdRD70/Screenshot-2024-01-16-040134.png)
 ![Screenshot-2024-01-16-040119.png](https://i.postimg.cc/y8khDR26/Screenshot-2024-01-16-040119.png)
+
+### "I have successfully set up passwordless SSH connections using Ansible and deployed an HTML page on the web using Nginx.
