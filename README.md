@@ -6,7 +6,7 @@ Ansible is an open source, command-line IT automation tool that can be used for 
 2. Simplicity: ansible configuration are written in yaml which is human readable.
 
 ### Ansible Components
-![animation](https://assets.sysadmincasts.com/e/g/47-ansible-serial-pre-post-task-orchestration.gif)
+![animation](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7wkvsc5sPrbEKLV8MuFKCHyMRJhX0txzsYIjlujnODBsjDOYtE-JpN2k&s=10)
 1. Control Node: where ansible is installed
 2. Managed Nodes: These are the servers or systems that are managed and configured by Ansible
 3. Inventory: it stores the information of managed nodes like ip address
