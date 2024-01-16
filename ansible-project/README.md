@@ -48,4 +48,4 @@
 ![Screenshot-2024-01-16-040134.png](https://i.postimg.cc/76pdRD70/Screenshot-2024-01-16-040134.png)
 ![Screenshot-2024-01-16-040119.png](https://i.postimg.cc/y8khDR26/Screenshot-2024-01-16-040119.png)
 
-### "I have successfully set up passwordless SSH connections using Ansible and deployed an HTML page on the web using Nginx.
+### I have successfully set up passwordless SSH connections using Ansible and deployed an HTML page on the web using Nginx.
