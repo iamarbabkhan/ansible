@@ -5,7 +5,7 @@ Ansible is an open source, command-line IT automation tool that can be used for 
 1. Agentless: dont need to install any agents on target nodes/servers.
 2. Simplicity: ansible configuration are written in yaml which is human readable.
 
-### idempotence in Ansible.
+### idempotence in Ansible
 Idempotence means that applying the same configuration multiple times produces the same result.
 
 ### Ansible Components
